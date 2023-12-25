@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.6.2)
+  - FSCalendar (2.8.4)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - FSCalendar
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FSCalendar
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  FSCalendar: 2d1d0d9398f12d439f55c1fe0f01525b151b8260
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 24a07a5b09b2568c78ec017366a2ab7a5e361451
+
+COCOAPODS: 1.11.2
